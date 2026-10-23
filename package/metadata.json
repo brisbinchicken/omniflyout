@@ -1,0 +1,17 @@
+{
+  "KPlugin": {
+    "Id": "org.hearnelabs.omniflyout",
+    "Name": "OmniFlyout",
+    "Description": "Modern unified quick settings & telemetry flyout: laptop brightness, volume & audio sink routing, sliding Wi-Fi & Bluetooth managers, power profiles, and quick toggles.",
+    "Icon": "preferences-system",
+    "Authors": [
+      { "Name": "HearneLabs" },
+      { "Name": "Backend scripts from Kontrol Center by ItsNotMeBro87 (Agon A.)" }
+    ],
+    "Category": "System Information",
+    "License": "GPL-3.0+",
+    "Version": "1.0.0"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

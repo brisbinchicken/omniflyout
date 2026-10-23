@@ -1,0 +1,21 @@
+# Backup & temporary files
+*.bak
+*.orig
+*~
+*.swp
+*.swo
+
+# QML cache & binaries
+*.qmlc
+*.jsc
+
+# System & editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.kate-swp
+
+# Build artifacts
+*.tar.gz
+*.tar.xz
